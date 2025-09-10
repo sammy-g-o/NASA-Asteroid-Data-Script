@@ -9,7 +9,7 @@ pip install requests
 ## How to Use
 Make sure the requests library is installed.
 Run the script from your terminal:
-python "get asteroid data from nasa's api.txt"
+python nasa.py
 
 
 The script will print the name, hazardous status, and orbiting body of a specific asteroid to the console.
